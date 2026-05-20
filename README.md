@@ -3,8 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=700&lines=Hi%2C+I'm+your+favorite+developer+%F0%9F%91%8B;Welcome+to+my+GitHub+%F0%9F%9A%80;Full+Stack+Developer;Open+Source+Enthusiast+%E2%9C%A8;Always+learning+something+new+%F0%9F%A7%A0" alt="Typing SVG" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 - 📫 How to reach me **sandorperez545@gmail.com**
   
