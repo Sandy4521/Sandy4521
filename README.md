@@ -1,15 +1,8 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  Hola, soy TuNombre
+    Hi, I'M Sandy
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer;Backend+Developer;Open+Source+Contributor;UI%2FUX+Lover" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer;Backend+Developer;Open+Source+Contributor;UI%2FUX+Lover" />
-</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=700&lines=Hi%2C+I'm+your+favorite+developer+%F0%9F%91%8B;Welcome+to+my+GitHub+%F0%9F%9A%80;Full+Stack+Developer;Open+Source+Enthusiast+%E2%9C%A8;Always+learning+something+new+%F0%9F%A7%A0" alt="Typing SVG" />
 </p>
