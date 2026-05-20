@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sandy</h1>
 <h3 align="center">Front-end developer</h3>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=700&lines=Hola%2C+soy+tu+dev+favorito+%F0%9F%91%8B;Bienvenido+a+mi+GitHub+%F0%9F%9A%80;Full+Stack+Developer;Open+Source+Lover+%E2%9C%A8;Siempre+aprendiendo+algo+nuevo+%F0%9F%A7%A0" alt="Typing SVG" />
+</p>
 - 📫 How to reach me **sandorperez545@gmail.com**
   
 <h3 align="left">Connect with me:</h3>
