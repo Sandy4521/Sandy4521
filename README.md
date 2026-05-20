@@ -9,6 +9,47 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+<div align="center">
+
+<svg width="100%" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00F5FF">
+        <animate attributeName="stop-color" values="#00F5FF;#8A2BE2;#FF00AA;#00F5FF" dur="8s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#8A2BE2">
+        <animate attributeName="stop-color" values="#8A2BE2;#FF00AA;#00F5FF;#8A2BE2" dur="8s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="220" fill="#0D1117" rx="20"/>
+
+  <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle"
+        fill="url(#grad)" font-size="42" font-family="Fira Code" font-weight="bold">
+    Bienvenido a mi GitHub 🚀
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="3s" repeatCount="indefinite"/>
+  </text>
+
+  <path d="M0 160 Q300 100 600 160 T1200 160" stroke="url(#grad)" stroke-width="5" fill="none">
+    <animate attributeName="d"
+      dur="6s"
+      repeatCount="indefinite"
+      values="
+      M0 160 Q300 100 600 160 T1200 160;
+      M0 140 Q300 200 600 140 T1200 140;
+      M0 160 Q300 100 600 160 T1200 160
+      " />
+  </path>
+
+  <circle r="5" fill="#00F5FF">
+    <animateMotion dur="10s" repeatCount="indefinite"
+      path="M0 160 Q300 100 600 160 T1200 160" />
+  </circle>
+
+</svg>
+
+</div>
 - 📫 How to reach me **sandorperez545@gmail.com**
   
 <h3 align="left">Connect with me:</h3>
